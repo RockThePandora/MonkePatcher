@@ -16,5 +16,5 @@ Verified mods do not have to be serious mods; they can be meme mods. There just 
 
 At the time of writing this the current verification stage is that the mods source code will be submitted and inspected. The inspection may not be necesarry if the mod author is "trusted". The source code will then be compiled into a qmod and hashed to ensure nobody uploads fake mods that are "unlocked".
 
-### Problem 2 - 'the distributing of a tag gun mod by a cheater who has been rampaging the server with several alts'
+### Problem 2 - 'the distributing of a tag gun mod by a cheater who has been rampaging the (discord) server with several alts'
 This is one of the easier problems to solve; since these mods won't be verified, they won't be installable. However if the verification process gets dropped we can simply blacklist the hashed qmod.
