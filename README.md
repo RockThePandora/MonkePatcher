@@ -14,7 +14,8 @@ These solutions are WIP but I believe it is the best move going forward
 The solution here is that MonkePatcher will only install "verified mods" - Mods that are verified to be not malignant or hacky.
 Verified mods do not have to be serious mods; they can be meme mods. There just needs to be proof that they are not illicit or cheat mods.
 
-At the time of writing this the current verification stage is that the mods source code will be submitted and inspected. The inspection may not be necesarry if the mod author is "trusted". The source code will then be compiled into a qmod and hashed to ensure nobody uploads fake mods that are "unlocked".
+A good way of automating this would be providing a GithHub action script which submits a qmod that we can guaruntee was compiled from the available source code.
+We could also skip some source code checking for some mods from trusted developers.
 
 ### Problem 2 - 'the distributing of a tag gun mod by a cheater who has been rampaging the (discord) server with several alts'
 This is one of the easier problems to solve; since these mods won't be verified, they won't be installable. However if the verification process gets dropped we can simply blacklist the hashed qmod.
