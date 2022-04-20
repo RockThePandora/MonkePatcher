@@ -10,6 +10,8 @@ MonkePatcher is a patching tool built on top of QuestPatcher that aims to resolv
 ## How will MonkePatcher resolve the issues encountered?
 These solutions are WIP but I believe it is the best move going forward
 
+**These solutions will not make cheating completely impossible, it simply makes installing them for the average user much harder. Any cheats that do get through can always be publicly reported**
+
 ### Problem 1 - 'People posting "unlocked" mods which work in public lobbies'
 The solution here is that MonkePatcher will only install "verified mods" - Mods that are verified to be not malignant or hacky.
 Verified mods do not have to be serious mods; they can be meme mods. There just needs to be proof that they are not illicit or cheat mods.
