@@ -5,9 +5,18 @@ MonkePatcher is a patching tool built on top of QuestPatcher that aims to resolv
 - [ ] Patching
 - [ ] Mod Verification System
 - [ ] Mod Blacklist
-- [ ] Core Mods
+- [ ] Core Mod Support
 - [ ] "MonkeProtecc" Core Mod
-- [ ] 
+  - [ ] Illicit Mod Checks
+  - [ ] Modified QuestLoader (May Not Be Required)
+- [ ] Mod Database (I might just store them on this repo so mods can be PR'd in)
+- [ ] Hash Checking
+- [ ] Frontend
+- [ ] Quest/Android Support
+- [ ] Debugging Features
+  - [ ] ADB Debugging
+  - [ ] Get Logs
+  - [ ] Automatic Tombstone NDK Stack
 
 ## How will MonkePatcher resolve the issues encountered?
 These solutions are WIP but I believe it is the best move going forward
