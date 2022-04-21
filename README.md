@@ -2,10 +2,12 @@
 MonkePatcher is a patching tool built on top of QuestPatcher that aims to resolve the major issues encountered when modding Gorilla Tag on the Quest/Quest2 platform. Since QuestPatcher is a more generic patching tool, it is not well equipped to deal with the "unique" problems the "illicit" mod developer in the Gorilla Tag community presents. I believe a specialised tool could and should be more well armed to deal with these issues.
 
 ## Features (WIP)
-- Patching
-- Mod Verification
-- Hash Checking (maybe)
-- In-Headset Support (you don't need a PC)
+- [ ] Patching
+- [ ] Mod Verification System
+- [ ] Mod Blacklist
+- [ ] Core Mods
+- [ ] "MonkeProtecc" Core Mod
+- [ ] 
 
 ## How will MonkePatcher resolve the issues encountered?
 These solutions are WIP but I believe it is the best move going forward
