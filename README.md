@@ -9,8 +9,8 @@ MonkePatcher is a patching tool built on top of QuestPatcher that aims to resolv
 - [ ] "MonkeProtecc" Core Mod
   - [ ] Illicit Mod Checks
   - [ ] Modified QuestLoader (May Not Be Required)
-- [ ] Mod Database (I might just store them on this repo so mods can be PR'd in)
-- [ ] Hash Checking
+- [x] Mod Database (I might just store them on this repo so mods can be PR'd in)
+- [x] Hash Checking
 - [ ] Frontend
 - [ ] Quest/Android Support
 - [ ] Debugging Features
