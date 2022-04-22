@@ -14,9 +14,9 @@ MonkePatcher is a patching tool built on top of QuestPatcher that aims to resolv
 - [ ] Frontend
 - [ ] Quest/Android Support
 - [ ] Debugging Features
-  - [ ] ADB Debugging
-  - [ ] Get Logs
-  - [ ] Automatic Tombstone NDK Stack
+  - [ ] Log Stream
+  - [x] ADB Shell Stream
+  - [ ] Fetch Tombstones
 
 ## How will MonkePatcher resolve the issues encountered?
 These solutions are WIP but I believe it is the best move going forward
