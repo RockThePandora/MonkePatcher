@@ -4,7 +4,7 @@ MonkePatcher is a patching tool built on top of QuestPatcher that aims to resolv
 ## Features (WIP)
 - [ ] Patching
 - [x] Mod Verification System
-- [ ] Mod Blacklist
+- [x] Mod Blacklist
 - [ ] "MonkeProtecc" Core Mod
   - [ ] Illicit Mod Checks
   - [ ] Modified QuestLoader (May Not Be Required)
