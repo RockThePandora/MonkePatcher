@@ -31,12 +31,6 @@
     <Reference Include="BouncyCastle.Crypto">
       <HintPath>..\..\..\QuestPatcher\QuestPatcher\bin\Debug\net6.0\BouncyCastle.Crypto.dll</HintPath>
     </Reference>
-    <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\QuestPatcher\QuestPatcher\bin\Debug\net6.0\Newtonsoft.Json.dll</HintPath>
-    </Reference>
-    <Reference Include="Newtonsoft.Json.Schema">
-      <HintPath>..\..\..\QuestPatcher\QuestPatcher\bin\Debug\net6.0\Newtonsoft.Json.Schema.dll</HintPath>
-    </Reference>
     <Reference Include="QuestPatcher.Axml">
       <HintPath>..\..\..\QuestPatcher\QuestPatcher\bin\Debug\net6.0\QuestPatcher.Axml.dll</HintPath>
     </Reference>
